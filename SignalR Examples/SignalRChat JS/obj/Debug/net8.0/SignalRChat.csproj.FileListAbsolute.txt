@@ -1,0 +1,70 @@
+C:\SerenityNRT\SignalRChat\bin\Debug\net8.0\appsettings.Development.json
+C:\SerenityNRT\SignalRChat\bin\Debug\net8.0\appsettings.json
+C:\SerenityNRT\SignalRChat\bin\Debug\net8.0\libman.json
+C:\SerenityNRT\SignalRChat\bin\Debug\net8.0\SignalRChat.staticwebassets.runtime.json
+C:\SerenityNRT\SignalRChat\bin\Debug\net8.0\SignalRChat.staticwebassets.endpoints.json
+C:\SerenityNRT\SignalRChat\bin\Debug\net8.0\SignalRChat.exe
+C:\SerenityNRT\SignalRChat\bin\Debug\net8.0\SignalRChat.deps.json
+C:\SerenityNRT\SignalRChat\bin\Debug\net8.0\SignalRChat.runtimeconfig.json
+C:\SerenityNRT\SignalRChat\bin\Debug\net8.0\SignalRChat.dll
+C:\SerenityNRT\SignalRChat\bin\Debug\net8.0\SignalRChat.pdb
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\SignalRChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\SignalRChat.AssemblyInfoInputs.cache
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\SignalRChat.AssemblyInfo.cs
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\SignalRChat.csproj.CoreCompileInputs.cache
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\SignalRChat.MvcApplicationPartsAssemblyInfo.cache
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\SignalRChat.RazorAssemblyInfo.cache
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\SignalRChat.RazorAssemblyInfo.cs
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\scopedcss\bundle\SignalRChat.styles.css
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\scopedcss\projectbundle\SignalRChat.bundle.scp.css
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\staticwebassets.build.json
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\staticwebassets.development.json
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\staticwebassets\msbuild.SignalRChat.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\staticwebassets\msbuild.SignalRChat.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\staticwebassets\msbuild.build.SignalRChat.props
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SignalRChat.props
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SignalRChat.props
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\staticwebassets.pack.json
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\SignalRChat.dll
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\refint\SignalRChat.dll
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\SignalRChat.pdb
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\SignalRChat.genruntimeconfig.cache
+C:\SerenityNRT\SignalRChat\obj\Debug\net8.0\ref\SignalRChat.dll
+C:\Work\Projects\SignalR\SignalRChat JS\bin\Debug\net8.0\appsettings.Development.json
+C:\Work\Projects\SignalR\SignalRChat JS\bin\Debug\net8.0\appsettings.json
+C:\Work\Projects\SignalR\SignalRChat JS\bin\Debug\net8.0\libman.json
+C:\Work\Projects\SignalR\SignalRChat JS\bin\Debug\net8.0\SignalRChat.staticwebassets.endpoints.json
+C:\Work\Projects\SignalR\SignalRChat JS\bin\Debug\net8.0\SignalRChat.staticwebassets.runtime.json
+C:\Work\Projects\SignalR\SignalRChat JS\bin\Debug\net8.0\SignalRChat.exe
+C:\Work\Projects\SignalR\SignalRChat JS\bin\Debug\net8.0\SignalRChat.deps.json
+C:\Work\Projects\SignalR\SignalRChat JS\bin\Debug\net8.0\SignalRChat.runtimeconfig.json
+C:\Work\Projects\SignalR\SignalRChat JS\bin\Debug\net8.0\SignalRChat.dll
+C:\Work\Projects\SignalR\SignalRChat JS\bin\Debug\net8.0\SignalRChat.pdb
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\SignalRChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\SignalRChat.AssemblyInfoInputs.cache
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\SignalRChat.AssemblyInfo.cs
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\SignalRChat.csproj.CoreCompileInputs.cache
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\SignalRChat.MvcApplicationPartsAssemblyInfo.cache
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\SignalRChat.RazorAssemblyInfo.cache
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\SignalRChat.RazorAssemblyInfo.cs
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\scopedcss\bundle\SignalRChat.styles.css
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\scopedcss\projectbundle\SignalRChat.bundle.scp.css
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\staticwebassets\msbuild.SignalRChat.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\staticwebassets\msbuild.SignalRChat.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\staticwebassets\msbuild.build.SignalRChat.props
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SignalRChat.props
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SignalRChat.props
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\SignalRChat.dll
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\refint\SignalRChat.dll
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\SignalRChat.pdb
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\SignalRChat.genruntimeconfig.cache
+C:\Work\Projects\SignalR\SignalRChat JS\obj\Debug\net8.0\ref\SignalRChat.dll

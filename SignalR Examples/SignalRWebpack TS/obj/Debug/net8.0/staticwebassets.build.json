@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "M4KDxEfteBmNBPaUzCiFrN7XujkCvmN1NWed1BEFGvY=",
+  "Source": "SignalRWebpack",
+  "BasePath": "_content/SignalRWebpack",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SignalRWebpack\\wwwroot",
+      "Source": "SignalRWebpack",
+      "ContentRoot": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\",
+      "BasePath": "_content/SignalRWebpack",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\css\\main.eb1728b84ce5b008daaa.css",
+      "SourceId": "SignalRWebpack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\",
+      "BasePath": "_content/SignalRWebpack",
+      "RelativePath": "css/main.eb1728b84ce5b008daaa#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x4880opge2",
+      "Integrity": "zzTIUGMX9Hy+givAVAYX8gVF2iVvn8NtUCksrjTJOkI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\main.eb1728b84ce5b008daaa.css"
+    },
+    {
+      "Identity": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\index.html",
+      "SourceId": "SignalRWebpack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\",
+      "BasePath": "_content/SignalRWebpack",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lum7jkb87o",
+      "Integrity": "beL/2Ih/ghp02/TWxoE0I39+T+Mbdjuksrzrv8pyL+A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\main.eb1728b84ce5b008daaa.js",
+      "SourceId": "SignalRWebpack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\",
+      "BasePath": "_content/SignalRWebpack",
+      "RelativePath": "main.eb1728b84ce5b008daaa#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sptol5fmbw",
+      "Integrity": "cIV3oPL3858Oa8eISggV1vARjcSD0w2WU92mvaGnLWo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.eb1728b84ce5b008daaa.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/main.eb1728b84ce5b008daaa.css",
+      "AssetFile": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\css\\main.eb1728b84ce5b008daaa.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zzTIUGMX9Hy+givAVAYX8gVF2iVvn8NtUCksrjTJOkI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 14:38:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zzTIUGMX9Hy+givAVAYX8gVF2iVvn8NtUCksrjTJOkI="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.eb1728b84ce5b008daaa.x4880opge2.css",
+      "AssetFile": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\css\\main.eb1728b84ce5b008daaa.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zzTIUGMX9Hy+givAVAYX8gVF2iVvn8NtUCksrjTJOkI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 14:38:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x4880opge2"
+        },
+        {
+          "Name": "label",
+          "Value": "css/main.eb1728b84ce5b008daaa.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zzTIUGMX9Hy+givAVAYX8gVF2iVvn8NtUCksrjTJOkI="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"beL/2Ih/ghp02/TWxoE0I39+T+Mbdjuksrzrv8pyL+A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 14:38:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-beL/2Ih/ghp02/TWxoE0I39+T+Mbdjuksrzrv8pyL+A="
+        }
+      ]
+    },
+    {
+      "Route": "index.lum7jkb87o.html",
+      "AssetFile": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"beL/2Ih/ghp02/TWxoE0I39+T+Mbdjuksrzrv8pyL+A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 14:38:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lum7jkb87o"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-beL/2Ih/ghp02/TWxoE0I39+T+Mbdjuksrzrv8pyL+A="
+        }
+      ]
+    },
+    {
+      "Route": "main.eb1728b84ce5b008daaa.js",
+      "AssetFile": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\main.eb1728b84ce5b008daaa.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56880"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cIV3oPL3858Oa8eISggV1vARjcSD0w2WU92mvaGnLWo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 14:38:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cIV3oPL3858Oa8eISggV1vARjcSD0w2WU92mvaGnLWo="
+        }
+      ]
+    },
+    {
+      "Route": "main.eb1728b84ce5b008daaa.sptol5fmbw.js",
+      "AssetFile": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\main.eb1728b84ce5b008daaa.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56880"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cIV3oPL3858Oa8eISggV1vARjcSD0w2WU92mvaGnLWo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 08 Mar 2025 14:38:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sptol5fmbw"
+        },
+        {
+          "Name": "label",
+          "Value": "main.eb1728b84ce5b008daaa.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cIV3oPL3858Oa8eISggV1vARjcSD0w2WU92mvaGnLWo="
+        }
+      ]
+    }
+  ]
+}
