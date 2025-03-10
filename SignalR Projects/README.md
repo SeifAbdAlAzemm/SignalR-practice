@@ -2,8 +2,6 @@
 
 A modern, responsive chat application built with ASP.NET Core and SignalR that enables instant messaging, private conversations, and real-time user status updates.
 
-![Chat App Demo](https://via.placeholder.com/800x400?text=Chat+Application+Demo)
-
 ## ✨ Features
 
 - **Real-time messaging** - Messages appear instantly for all users
