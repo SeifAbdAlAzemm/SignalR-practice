@@ -7,7 +7,6 @@ A modern, responsive chat application built with ASP.NET Core and SignalR that e
 - **Real-time messaging** - Messages appear instantly for all users
 - **User presence** - See who's online and receive notifications when users join or leave
 - **Private messaging** - Send confidential messages to specific users
-- **Persistent connections** - WebSockets with automatic fallback to other transport methods
 - **Clean, intuitive UI** - Simple and responsive interface
 
 ## 📋 Project Structure
