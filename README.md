@@ -1,5 +1,4 @@
 # SignalR
-*بسم الله الرحمن الرحيم*
 
 ## Introduction: The Evolution of Real-Time Web Communication
 
