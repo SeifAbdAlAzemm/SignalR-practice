@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SignalRWebpack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bf34d9a9abab3c90a7534a143a251f802923216")]
 [assembly: System.Reflection.AssemblyProductAttribute("SignalRWebpack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SignalRWebpack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

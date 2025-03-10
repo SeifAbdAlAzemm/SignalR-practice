@@ -23,9 +23,9 @@ body {
     background: #ffffff;
     border-radius: 12px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-    overflow: hidden;
     display: flex;
     flex-direction: column;
+    overflow: hidden;
 }
 
 /* Messages Display */
@@ -35,8 +35,11 @@ body {
     max-height: 300px;
     overflow-y: auto;
     border-bottom: 2px solid #eee;
+    display: flex;
+    flex-direction: column;
 }
 
+/* Individual Messages */
 .message {
     padding: 8px 12px;
     margin: 5px;
@@ -45,20 +48,36 @@ body {
     max-width: 80%;
 }
 
+/* Message Sender Name */
 .message-author {
     font-weight: bold;
     font-size: 14px;
+    margin-bottom: 3px;
 }
 
+/* Sent Messages (Right-aligned) */
 .message.sent {
     background: #4facfe;
     color: white;
     align-self: flex-end;
+    text-align: right;
+    border-radius: 12px 12px 0 12px;
 }
 
+/* Received Messages (Left-aligned) */
 .message.received {
     background: #f1f1f1;
     color: black;
+    align-self: flex-start;
+    border-radius: 12px 12px 12px 0;
+}
+
+/* Error Message */
+.error {
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    margin: 10px 0;
 }
 
 /* Input Section */
@@ -68,6 +87,7 @@ body {
     border-top: 2px solid #eee;
 }
 
+/* Text Input */
 .input-zone-input {
     flex: 1;
     padding: 10px;
@@ -98,4 +118,10 @@ body {
 
 #btnSend:hover {
     background: #00c2ff;
+}
+
+/* Disabled Send Button */
+#btnSend:disabled {
+    background: #ccc;
+    cursor: not-allowed;
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "M4KDxEfteBmNBPaUzCiFrN7XujkCvmN1NWed1BEFGvY=",
+  "Hash": "f7TSZbLwsNWTjoW3+s+CftNylG2nn06h6YNJzzJGPg0=",
   "Source": "SignalRWebpack",
   "BasePath": "_content/SignalRWebpack",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SignalRWebpack\\wwwroot",
       "Source": "SignalRWebpack",
-      "ContentRoot": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\",
+      "ContentRoot": "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\wwwroot\\",
       "BasePath": "_content/SignalRWebpack",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\css\\main.eb1728b84ce5b008daaa.css",
+      "Identity": "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\wwwroot\\css\\main.eb1728b84ce5b008daaa.css",
       "SourceId": "SignalRWebpack",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\",
+      "ContentRoot": "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\wwwroot\\",
       "BasePath": "_content/SignalRWebpack",
       "RelativePath": "css/main.eb1728b84ce5b008daaa#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -31,17 +31,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "x4880opge2",
-      "Integrity": "zzTIUGMX9Hy+givAVAYX8gVF2iVvn8NtUCksrjTJOkI=",
+      "Fingerprint": "nonlbxm2od",
+      "Integrity": "2aVTfoYVtySKGXufUIHlAs9k31K1aJe2wSBASjeKkEE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\main.eb1728b84ce5b008daaa.css"
     },
     {
-      "Identity": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\index.html",
+      "Identity": "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\wwwroot\\index.html",
       "SourceId": "SignalRWebpack",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\",
+      "ContentRoot": "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\wwwroot\\",
       "BasePath": "_content/SignalRWebpack",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\main.eb1728b84ce5b008daaa.js",
+      "Identity": "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\wwwroot\\main.eb1728b84ce5b008daaa.js",
       "SourceId": "SignalRWebpack",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\",
+      "ContentRoot": "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\wwwroot\\",
       "BasePath": "_content/SignalRWebpack",
       "RelativePath": "main.eb1728b84ce5b008daaa#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -83,7 +83,7 @@
   "Endpoints": [
     {
       "Route": "css/main.eb1728b84ce5b008daaa.css",
-      "AssetFile": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\css\\main.eb1728b84ce5b008daaa.css",
+      "AssetFile": "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\wwwroot\\css\\main.eb1728b84ce5b008daaa.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -92,7 +92,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "458"
+          "Value": "495"
         },
         {
           "Name": "Content-Type",
@@ -100,11 +100,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zzTIUGMX9Hy+givAVAYX8gVF2iVvn8NtUCksrjTJOkI=\""
+          "Value": "\"2aVTfoYVtySKGXufUIHlAs9k31K1aJe2wSBASjeKkEE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 14:38:15 GMT"
+          "Value": "Sun, 09 Mar 2025 09:05:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -114,13 +114,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zzTIUGMX9Hy+givAVAYX8gVF2iVvn8NtUCksrjTJOkI="
+          "Value": "sha256-2aVTfoYVtySKGXufUIHlAs9k31K1aJe2wSBASjeKkEE="
         }
       ]
     },
     {
-      "Route": "css/main.eb1728b84ce5b008daaa.x4880opge2.css",
-      "AssetFile": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\css\\main.eb1728b84ce5b008daaa.css",
+      "Route": "css/main.eb1728b84ce5b008daaa.nonlbxm2od.css",
+      "AssetFile": "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\wwwroot\\css\\main.eb1728b84ce5b008daaa.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -129,7 +129,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "458"
+          "Value": "495"
         },
         {
           "Name": "Content-Type",
@@ -137,11 +137,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zzTIUGMX9Hy+givAVAYX8gVF2iVvn8NtUCksrjTJOkI=\""
+          "Value": "\"2aVTfoYVtySKGXufUIHlAs9k31K1aJe2wSBASjeKkEE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 14:38:15 GMT"
+          "Value": "Sun, 09 Mar 2025 09:05:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -151,7 +151,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "x4880opge2"
+          "Value": "nonlbxm2od"
         },
         {
           "Name": "label",
@@ -159,13 +159,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zzTIUGMX9Hy+givAVAYX8gVF2iVvn8NtUCksrjTJOkI="
+          "Value": "sha256-2aVTfoYVtySKGXufUIHlAs9k31K1aJe2wSBASjeKkEE="
         }
       ]
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\index.html",
+      "AssetFile": "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -186,7 +186,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 14:38:15 GMT"
+          "Value": "Sun, 09 Mar 2025 09:05:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -202,7 +202,7 @@
     },
     {
       "Route": "index.lum7jkb87o.html",
-      "AssetFile": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\index.html",
+      "AssetFile": "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -223,7 +223,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 14:38:15 GMT"
+          "Value": "Sun, 09 Mar 2025 09:05:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -247,7 +247,7 @@
     },
     {
       "Route": "main.eb1728b84ce5b008daaa.js",
-      "AssetFile": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\main.eb1728b84ce5b008daaa.js",
+      "AssetFile": "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\wwwroot\\main.eb1728b84ce5b008daaa.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -268,7 +268,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 14:38:15 GMT"
+          "Value": "Sun, 09 Mar 2025 09:05:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -284,7 +284,7 @@
     },
     {
       "Route": "main.eb1728b84ce5b008daaa.sptol5fmbw.js",
-      "AssetFile": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\wwwroot\\main.eb1728b84ce5b008daaa.js",
+      "AssetFile": "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\wwwroot\\main.eb1728b84ce5b008daaa.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -305,7 +305,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 08 Mar 2025 14:38:15 GMT"
+          "Value": "Sun, 09 Mar 2025 09:05:52 GMT"
         },
         {
           "Name": "Cache-Control",

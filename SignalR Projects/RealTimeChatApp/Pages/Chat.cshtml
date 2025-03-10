@@ -1,0 +1,58 @@
+﻿@page
+@model ChatModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real-Time Chat</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.5/signalr.min.js"></script>
+	<link href="~/css/chat.css" rel="stylesheet" />
+</head>
+<body>
+    <h2>Welcome, @Model.Username!</h2>
+    <div id="chat-container">
+        <!-- Public Messages -->
+
+        <div class="chat-box">
+            <h3>Public Chat</h3>
+            <div id="publicMessages"></div>
+            <input type="text" id="messageInput" placeholder="Type a public message..." />
+            <button onclick="sendMessage()">Send</button>
+        </div>
+
+        <!-- Private Messages -->
+
+        <div class="chat-box">
+            <h3>Private Chat</h3>
+            <select id="privateUser"></select> <!-- Dropdown for selecting a user -->
+            <div id="privateMessages"></div>
+            <input type="text" id="privateMessageInput" placeholder="Type a private message..." />
+            <button onclick="sendPrivateMessage()">Send</button>
+        </div>
+
+        <!-- Connected Users -->
+
+        <div id="users">
+            <h3>Online Users</h3>
+            <ul id="userList"></ul>
+        </div>
+
+
+        <!-- Wink User -->
+
+        <div id="wink-section">
+            <select id="winkUserSelect" class="chat-select">
+                <option value="">Select a user</option>
+            </select>
+            <button id="winkButton" class="wink-button">😉 Wink</button>
+        </div>
+
+
+
+    </div>
+
+	<script src="~/js/chat.js"></script>
+	<script src="~/js/wink.js"></script>
+</body>
+</html>

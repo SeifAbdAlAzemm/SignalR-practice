@@ -1,0 +1,14 @@
+﻿@page
+@model RealTimeChatApp.Pages.IndexModel
+@{
+    ViewData["Title"] = "Welcome to Real-Time Chat";
+}
+
+<h2>Welcome to the Chat App!</h2>
+<p>Enter your username to start chatting.</p>
+
+<form method="get" action="/Chat">
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username" required />
+    <button type="submit">Start Chat</button>
+</form>

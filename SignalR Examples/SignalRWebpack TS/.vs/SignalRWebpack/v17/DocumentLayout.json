@@ -1,12 +1,71 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{043B4B53-CB06-4783-B115-17D519233CA3}|SignalRWebpack.csproj|c:\\work\\projects\\signalr-practice\\signalr examples\\signalrwebpack ts\\src\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{043B4B53-CB06-4783-B115-17D519233CA3}|SignalRWebpack.csproj|solutionrelative:src\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043B4B53-CB06-4783-B115-17D519233CA3}|SignalRWebpack.csproj|c:\\work\\projects\\signalr-practice\\signalr examples\\signalrwebpack ts\\src\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{043B4B53-CB06-4783-B115-17D519233CA3}|SignalRWebpack.csproj|solutionrelative:src\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043B4B53-CB06-4783-B115-17D519233CA3}|SignalRWebpack.csproj|c:\\work\\projects\\signalr-practice\\signalr examples\\signalrwebpack ts\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{043B4B53-CB06-4783-B115-17D519233CA3}|SignalRWebpack.csproj|solutionrelative:src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\src\\index.html",
+              "RelativeDocumentMoniker": "src\\index.html",
+              "ToolTip": "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\src\\index.html",
+              "RelativeToolTip": "src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-09T09:53:41.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\src\\css\\main.css",
+              "RelativeDocumentMoniker": "src\\css\\main.css",
+              "ToolTip": "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\src\\css\\main.css",
+              "RelativeToolTip": "src\\css\\main.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-09T09:56:05.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.ts",
+              "DocumentMoniker": "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\src\\index.ts",
+              "RelativeDocumentMoniker": "src\\index.ts",
+              "ToolTip": "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\src\\index.ts",
+              "RelativeToolTip": "src\\index.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-09T09:55:19.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

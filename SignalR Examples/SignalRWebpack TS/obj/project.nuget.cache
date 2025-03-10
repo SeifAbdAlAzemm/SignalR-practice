@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZwXTNHZYzoo=",
+  "dgSpecHash": "MH6Mfc97sB8=",
   "success": true,
-  "projectFilePath": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\SignalRWebpack.csproj",
+  "projectFilePath": "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\SignalRWebpack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Seif.Ahmed\\.nuget\\packages\\microsoft.typescript.msbuild\\5.8.1\\microsoft.typescript.msbuild.5.8.1.nupkg.sha512"
   ],

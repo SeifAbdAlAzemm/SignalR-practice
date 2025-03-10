@@ -1,0 +1,192 @@
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\appsettings.Development.json
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\appsettings.json
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\RealTimeChatApp.staticwebassets.runtime.json
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\RealTimeChatApp.staticwebassets.endpoints.json
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\RealTimeChatApp.exe
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\RealTimeChatApp.deps.json
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\RealTimeChatApp.runtimeconfig.json
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\RealTimeChatApp.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\RealTimeChatApp.pdb
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\System.Net.ServerSentEvents.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\System.Text.Json.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\System.Threading.Channels.dll
+C:\SerenityNRT\RealTimeChatApp\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\RealTimeChatApp.csproj.AssemblyReference.cache
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\RealTimeChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\RealTimeChatApp.AssemblyInfoInputs.cache
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\RealTimeChatApp.AssemblyInfo.cs
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\RealTimeChatApp.csproj.CoreCompileInputs.cache
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\RealTimeChatApp.MvcApplicationPartsAssemblyInfo.cache
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\RealTimeChatApp.RazorAssemblyInfo.cache
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\RealTimeChatApp.RazorAssemblyInfo.cs
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\scopedcss\bundle\RealTimeChatApp.styles.css
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\scopedcss\projectbundle\RealTimeChatApp.bundle.scp.css
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\staticwebassets\msbuild.RealTimeChatApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\staticwebassets\msbuild.RealTimeChatApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\staticwebassets\msbuild.build.RealTimeChatApp.props
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RealTimeChatApp.props
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RealTimeChatApp.props
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\RealTime.5AA5AB2A.Up2Date
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\RealTimeChatApp.dll
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\refint\RealTimeChatApp.dll
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\RealTimeChatApp.pdb
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\RealTimeChatApp.genruntimeconfig.cache
+C:\SerenityNRT\RealTimeChatApp\obj\Debug\net8.0\ref\RealTimeChatApp.dll
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\RealTimeChatApp.csproj.AssemblyReference.cache
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\RealTimeChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\RealTimeChatApp.AssemblyInfoInputs.cache
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\RealTimeChatApp.AssemblyInfo.cs
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\RealTimeChatApp.csproj.CoreCompileInputs.cache
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\RealTimeChatApp.MvcApplicationPartsAssemblyInfo.cache
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\RealTimeChatApp.RazorAssemblyInfo.cache
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\RealTimeChatApp.RazorAssemblyInfo.cs
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\RealTimeChatApp.dll
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\refint\RealTimeChatApp.dll
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\RealTimeChatApp.pdb
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\appsettings.Development.json
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\appsettings.json
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\RealTimeChatApp.staticwebassets.endpoints.json
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\RealTimeChatApp.staticwebassets.runtime.json
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\RealTimeChatApp.exe
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\RealTimeChatApp.deps.json
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\RealTimeChatApp.runtimeconfig.json
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\RealTimeChatApp.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\RealTimeChatApp.pdb
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\System.Net.ServerSentEvents.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\System.Text.Json.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\System.Threading.Channels.dll
+C:\SerenityNRT\RealTimeChatApp v.2\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\scopedcss\bundle\RealTimeChatApp.styles.css
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\scopedcss\projectbundle\RealTimeChatApp.bundle.scp.css
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\staticwebassets.build.json
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\staticwebassets.development.json
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\staticwebassets\msbuild.RealTimeChatApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\staticwebassets\msbuild.RealTimeChatApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\staticwebassets\msbuild.build.RealTimeChatApp.props
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RealTimeChatApp.props
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RealTimeChatApp.props
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\RealTime.5AA5AB2A.Up2Date
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\RealTimeChatApp.genruntimeconfig.cache
+C:\SerenityNRT\RealTimeChatApp v.2\obj\Debug\net8.0\ref\RealTimeChatApp.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\appsettings.Development.json
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\appsettings.json
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\RealTimeChatApp.staticwebassets.endpoints.json
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\RealTimeChatApp.staticwebassets.runtime.json
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\RealTimeChatApp.exe
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\RealTimeChatApp.deps.json
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\RealTimeChatApp.runtimeconfig.json
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\RealTimeChatApp.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\RealTimeChatApp.pdb
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\Microsoft.Extensions.Features.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\System.Net.ServerSentEvents.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\System.Text.Json.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\System.Threading.Channels.dll
+C:\SerenityNRT\RealTimeChatApp v.3\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\RealTimeChatApp.csproj.AssemblyReference.cache
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\RealTimeChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\RealTimeChatApp.AssemblyInfoInputs.cache
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\RealTimeChatApp.AssemblyInfo.cs
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\RealTimeChatApp.csproj.CoreCompileInputs.cache
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\RealTimeChatApp.MvcApplicationPartsAssemblyInfo.cache
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\RealTimeChatApp.RazorAssemblyInfo.cache
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\RealTimeChatApp.RazorAssemblyInfo.cs
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\scopedcss\bundle\RealTimeChatApp.styles.css
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\scopedcss\projectbundle\RealTimeChatApp.bundle.scp.css
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\staticwebassets.build.json
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\staticwebassets.development.json
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\staticwebassets\msbuild.RealTimeChatApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\staticwebassets\msbuild.RealTimeChatApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\staticwebassets\msbuild.build.RealTimeChatApp.props
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RealTimeChatApp.props
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RealTimeChatApp.props
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\RealTime.5AA5AB2A.Up2Date
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\RealTimeChatApp.dll
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\refint\RealTimeChatApp.dll
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\RealTimeChatApp.pdb
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\RealTimeChatApp.genruntimeconfig.cache
+C:\SerenityNRT\RealTimeChatApp v.3\obj\Debug\net8.0\ref\RealTimeChatApp.dll

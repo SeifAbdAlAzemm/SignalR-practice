@@ -1,0 +1,164 @@
+﻿/* General Page Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #181818;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Chat Container */
+#chat-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    max-width: 900px;
+    margin: auto;
+}
+
+/* Chat Boxes */
+.chat-box {
+    background: #222;
+    padding: 15px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.1);
+    width: 45%;
+    min-width: 300px;
+    text-align: left;
+}
+
+/* Headings */
+h2 {
+    font-size: 24px;
+    color: #4CAF50;
+    margin-bottom: 15px;
+}
+
+h3 {
+    font-size: 18px;
+    border-bottom: 2px solid #4CAF50;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+/* Messages Box */
+#publicMessages, #privateMessages {
+    height: 250px;
+    overflow-y: auto;
+    background: #333;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+#publicMessages {
+    height: 300px;
+}
+
+/* Individual Messages */
+.message, .private-message {
+    background: #4CAF50;
+    color: #fff;
+    padding: 8px;
+    border-radius: 6px;
+    margin-bottom: 8px;
+    max-width: 80%;
+}
+
+/* Private Messages */
+.private-message {
+    background: #f39c12;
+}
+
+/* Input Fields */
+input[type="text"] {
+    width: calc(100% - 90px);
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+    background: #444;
+    color: #fff;
+    outline: none;
+}
+
+select {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+/* Send Buttons */
+button, select {
+    background: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover, select:hover {
+    background: #45a049;
+}
+
+/* Online Users Section */
+#users {
+    background: #222;
+    padding: 15px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.1);
+    width: 100%;
+    max-width: 300px;
+    text-align: left;
+}
+
+#userList {
+    list-style: none;
+    padding: 0;
+}
+
+#userList li {
+    background: #333;
+    padding: 8px;
+    margin: 5px 0;
+    border-radius: 6px;
+}
+
+/* Wink Section */
+#wink-section {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+/* Wink Button */
+.wink-button {
+    background: #f39c12; /* Orange color for warning */
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.3s;
+    font-weight: bold;
+}
+
+.wink-button:hover {
+    background: #e67e22;
+}
+
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    #chat-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .chat-box {
+        width: 90%;
+    }
+}

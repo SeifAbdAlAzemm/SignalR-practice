@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\SignalRWebpack.csproj": {}
+    "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\SignalRWebpack.csproj": {}
   },
   "projects": {
-    "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\SignalRWebpack.csproj": {
+    "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\SignalRWebpack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\SignalRWebpack.csproj",
+        "projectUniqueName": "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\SignalRWebpack.csproj",
         "projectName": "SignalRWebpack",
-        "projectPath": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\SignalRWebpack.csproj",
+        "projectPath": "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\SignalRWebpack.csproj",
         "packagesPath": "C:\\Users\\Seif.Ahmed\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\Projects\\SignalR\\SignalRWebpack TS\\obj\\",
+        "outputPath": "C:\\Work\\Projects\\SignalR-practice\\SignalR Examples\\SignalRWebpack TS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
